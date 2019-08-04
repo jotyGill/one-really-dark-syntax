@@ -1,14 +1,15 @@
 {
-  "name": "one-dark-syntax",
+  "name": "one-real-dark-syntax",
   "theme": "syntax",
   "version": "1.8.4",
-  "description": "A dark syntax theme",
+  "description": "A dark syntax theme without the bluish and instead more saturated",
   "keywords": [
     "dark",
-    "blue",
-    "syntax"
+    "black",
+    "syntax",
+    "saturated",
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/HDenizD/one-real-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
