@@ -1,6 +1,4 @@
-## One Dark Syntax theme
-
-### This package is now a part of the [core Atom repository](https://github.com/atom/atom/tree/master/packages/one-dark-syntax), please direct all issues and pull requests there in the future!
+## One Real Dark Syntax theme
 
 ![one-dark-syntax](https://i.ibb.co/8xmS30n/one-dark-saturated-real-dark-preview.png)
 
