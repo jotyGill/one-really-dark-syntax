@@ -1,4 +1,6 @@
-## One Real Dark Syntax theme
+## One Really Dark Syntax theme
+
+A fork of [One Real Dark Syntax](https://github.com/HDenizD/one-real-dark-syntax) with less sharp green colour.
 
 ![One Really Dark Syntax](https://user-images.githubusercontent.com/8462091/63744701-a4aa1800-c88f-11e9-98f1-cead19fbf650.png)
 
