@@ -1,8 +1,8 @@
 {
-  "name": "one-real-dark-syntax",
+  "name": "one-really-dark-syntax",
   "theme": "syntax",
-  "version": "1.11.0",
-  "description": "A dark syntax theme without the bluish and instead more saturated",
+  "version": "1.0.0",
+  "description": "Easy on eyes, dark syntax theme with high contrast and without blueness.",
   "keywords": [
     "one",
     "real",
@@ -11,7 +11,7 @@
     "syntax",
     "saturated"
   ],
-  "repository": "https://github.com/HDenizD/one-real-dark-syntax",
+  "repository": "https://github.com/jotyGill/one-really-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
